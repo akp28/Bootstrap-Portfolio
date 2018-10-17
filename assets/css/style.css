@@ -24,5 +24,36 @@ body {
   transition: all .2s ease-in-out;
   max-width: 100%;
   height: auto;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 10px; */
+}
+.crystal-image{
+  /* margin: 30px;
+  display: flex;
+  align-items: flex-end;
+  background: black; */
+  width: 260px;
+  height: 200px;
+  color: blue;
+  /* cursor: pointer;
+  /* font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 1em; */
+  text-align: center;
+  /* background-size: cover;
+  
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 22px 0 rgba(0, 0, 0, 0.22); */
+
 }
 
+.project-title{
+  padding: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  transition: all .2s ease-in-out;
+  width: 260px;
+  height: auto;
+  background: #4aaaa5
+}
